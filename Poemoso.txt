@@ -3,5 +3,6 @@ You can write
 a green poem,
 a blue poem,
 a yellow poem,
+pink poem,
 a red poem
 These are the colors of the Unicorn.
